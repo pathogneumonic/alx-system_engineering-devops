@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -l
-UID: $UID
-GID: $GID
+ls -lan
